@@ -1,0 +1,4 @@
+AuthType Basic 
+AuthName "Dang nhap"
+AuthUserFile /home/admin/domains/vipfbnow.com/public_html/AdminCP/.htasswd
+Require valid-user
